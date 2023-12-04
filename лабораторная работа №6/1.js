@@ -1,19 +1,36 @@
+function correctdate(date) {
+  if (isblank(date)) {
+    return "Дата рождения некорректна";
+  }
+  date = date.toString();
+  let massiv = date.split("-");
+  if (parseInt(massiv[1]) < 10) {
+    massiv[1] = '0' + parseInt(massiv[1]);
+  }
+  else{}
+  if (parseInt(massiv[2]) < 10) {
+    massiv[2] = '0' + parseInt(massiv[2]);
+  }
+  else{}
+  return "Ваша дата рождения:" + massiv[2] + "." + massiv[1] + "." + massiv[0];
+  
+}
 let form = document.getElementById("reg_form");
 
-form.addEventListener("submit", function (event) {
+form.addEventListener("submit", function(event){
     event.preventDefault(); // отменяет стандартные действия браузера
 
     // <span class="error-text">Заполните поле</span>
 
-    /*  let data = new FormData(this);
-      data.forEach(function(item, index){
-          console.log(index,item)
-      });  */
-
+  /*  let data = new FormData(this);
+    data.forEach(function(item, index){
+        console.log(index,item)
+    });  */
+  
 
     let errors = document.querySelectorAll(".error-text");
 
-    if (errors.length) {
+    if(errors.length){
         Array.from(errors).forEach((errorSpan) => {
             errorSpan.parentElement.classList.remove("error");
             errorSpan.remove();
@@ -22,142 +39,116 @@ form.addEventListener("submit", function (event) {
 
     let hasError = false;
 
-const form = document.getElementById('fam');
+    let nameInput = document.querySelector("#name");
+    let emailInput = document.querySelector("#email");
+    let phoneInput = document.querySelector("#phone");
+    let cityInput = document.querySelector("#city");
+    let snameInput = document.querySelector("#sname");
+    let surnameInput = document.querySelector("#surname");
+    let grazInput = document.querySelector("#graz");
+    let nationInput = document.querySelector("#nation");
+    let namesInput = document.querySelector("#names");
+    let whosInput = document.querySelector("#whos");
+    let seriesInput = document.querySelector("#series");
+    let numbersInput = document.querySelector("#numbers");
 
-// Получаем все радио-кнопки
-const radios = form.querySelectorAll('input[type="radio"]');
 
-// Добавляем обработчик события на форму
-    form.addEventListener('submit', function (event) { 
-  // Проверяем, что хотя бы одна радио-кнопка выбрана
-  let isChecked = false);
-  for (let i = 0; i < radios.length; i++) 
-    if (radios[i].checked) 
-      isChecked = true;
-      break;
-    
-  
-  // Если ни одна кнопка не выбрана, отменяем отправку формы и выводим сообщение об ошибке
-  if (!isChecked) 
-    event.preventDefault();
-    alert('Выберите семейное положение');
-  
-);
-// Получаем поля ввода
-const snameInput = document.getElementById('sname');
-const nameInput = document.getElementById('name');
-const surnameInput = document.getElementById('surname');
-const dateInputs = form.querySelectorAll('input[type="date"]');
+    let fields = [nameInput, emailInput, phoneInput, snameInput, cityInput, surnameInput, grazInput, nationInput, namesInput, whosInput, seriesInput, numbersInput];
 
-// Добавляем обработчик события на форму
-form.addEventListener('submit', function (event) {
-  // Проверяем, что все поля заполнены
-  if (snameInput.value === ” || nameInput.value === ” || surnameInput.value === ”) 
-    event.preventDefault();
-    alert('Заполните все поля');
-  
-  // Проверяем, что даты рождения выбраны
-  let isDateSelected = true;
-  for (let i = 0; i < dateInputs.length; i++) 
-    if (dateInputs[i].value === ”) 
-      isDateSelected = false;
-      break;
+    fields.forEach((field) => {
+        if(field.value == ""){
+            let span = document.createElement("span");
+            span.className = "error-text"; // span.classList.add("error-text");
+            span.innerText = "Заполните поле";
+            field.insertAdjacentElement("afterend", span);
+            field.parentElement.classList.add("error");
+            hasError = true;
+        }
+    });
 
-  
-  if (!isDateSelected) 
-    event.preventDefault();
-    alert('Выберите дату рождения');
-  
-);
-// Получаем форму
-const form = document.getElementById('form');
+    let fam = ["#a", "#b", "#c"];
 
-// Получаем поля ввода
-const snameInput = document.getElementById('sname');
-const nameInput = document.getElementById('name');
-const surnameInput = document.getElementById('surname');
-const dateInputs = form.querySelectorAll('input[type="date"]');
-const citySelects = form.querySelectorAll('select#citySelect');
-const grazInputs = form.querySelectorAll('input#graz');
+    let checked = fam.some((radioId) => {
+        return document.querySelector(radioId).checked; //document.querySelector(radioId) - input
+    })
 
-// Добавляем обработчик события на форму
-form.addEventListener('submit', function (event) { 
-  // Проверяем, что все поля заполнены
-  if (snameInput.value === ” || nameInput.value === ” || surnameInput.value === ”) 
-    event.preventDefault();
-    alert('Заполните все поля');
-  
-  // Проверяем, что даты рождения выбраны
-  let isDateSelected = true;
-  for (let i = 0; i < dateInputs.length; i++) 
-    if (dateInputs[i].value === ”) 
-      isDateSelected = false;
-      break;
-    
-  
-  if (!isDateSelected) 
-    event.preventDefault();
-    alert('Выберите дату рождения');
-  
-  // Проверяем, что выбраны города рождения
-  let isCitySelected = true;
-  for (let i = 0; i < citySelects.length; i++) 
-    if (citySelects[i].value === ”) 
-      isCitySelected = false;
-      break;
-    
-  
-  if (!isCitySelected) 
-    event.preventDefault();
-    alert('Выберите город рождения');
-  
-  // Проверяем, что указано гражданство
-  let isGrazSelected = true;
-  for (let i = 0; i < grazInputs.length; i++) 
-    if (grazInputs[i].value === ”) 
-      isGrazSelected = false;
-      break;
-    
-  
-  if (!isGrazSelected) 
-    event.preventDefault();
-    alert('Укажите гражданство');
-  
-);
-// Получаем форму
-const form = document.getElementById('form');
+    if(!checked){
+        let span = document.createElement("span");
+        span.className = "error-text"; // span.classList.add("error-text");
+        span.innerText = "Выберите семейное положение";
+        document.querySelector("#c").parentElement.insertAdjacentElement("afterend", span);
+        hasError = true;
+    }
 
-// Получаем поля ввода
-const nationInput = document.getElementById('nation');
-const eduCheckboxes = form.querySelectorAll('input[type="checkbox"]');
-const namesInput = document.getElementById('names');
-const seriesInput = document.getElementById('series');
-const numbersInput = document.getElementById('numbers');
-const whosInput = document.getElementById('whos');
-const dateInput = form.querySelector('input[type="date"]');
+    let obr2 = ["#srp", "#os", "#nach", "#nm"];
 
-// Добавляем обработчик события на форму
-form.addEventListener('submit', function (event) {
-  // Проверяем, что поле "Национальность" заполнено
-  if (nationInput.value === ”) 
-    event.preventDefault();
-    alert('Заполните поле "Национальность"');
-  
-  // Проверяем, что выбрано хотя бы одно образование
-  let isEduSelected = false;
-  for (let i = 0; i < eduCheckboxes.length; i++) 
-    if (eduCheckboxes[i].checked) 
-      isEduSelected = true;
-      break;
-    
-  
-  if (!isEduSelected) 
-    event.preventDefault();
-    alert('Выберите хотя бы одно образование');
-  
-  // Проверяем, что все поля документа заполнены
-  if (namesInput.value === ” || seriesInput.value === ” || numbersInput.value === ” || whosInput.value === ” || dateInput.value === ”) 
-    event.preventDefault();
-    alert('Заполните все поля документа');
-  
-);
+    checked = obr2.some((checkboxId) => {
+        return document.querySelector(checkboxId).checked; //document.querySelector(checkbox) - input
+    })
+
+    if(!checked){
+        let span = document.createElement("span");
+        span.className = "error-text"; // span.classList.add("error-text");
+        span.innerText = "Выберите общее образование";
+        document.querySelector("#nm").parentElement.insertAdjacentElement("afterend", span);
+        hasError = true;
+    }
+    let obr = ["#vis", "#nvis", "#sr", "#n"];
+
+    checked = obr.some((checkboxId) => {
+        return document.querySelector(checkboxId).checked; //document.querySelector(checkbox) - input
+    })
+
+    if(!checked){
+        let span = document.createElement("span");
+        span.className = "error-text"; // span.classList.add("error-text");
+        span.innerText = "Выберите профессиональное образование";
+        document.querySelector("#n").parentElement.insertAdjacentElement("afterend", span);
+        hasError = true;
+    }
+
+    if(!hasError){
+        let div = document.querySelector(".result");
+
+        div.innerHTML += `Фамилия: ${snameInput.value}<br>`;
+        div.innerHTML += `Имя: ${nameInput.value}<br>`;
+        div.innerHTML += `Отчество: ${surnameInput.value}<br>`;
+        div.innerHTML += `Гражданство: ${grazInput.value}<br>`;
+        div.innerHTML += `Национальность: ${nationInput.value}<br>`;
+        div.innerHTML += `Наименование документа, удостоверяющего личность: ${namesInput.value}<br>`;
+        div.innerHTML += `Наименование документа, удостоверяющего личность: ${seriesInput.value}<br>`;
+        div.innerHTML += `Серия: ${numberInput.value}<br>`;
+        div.innerHTML += `Номер: ${whosInput.value}<br>`;
+        div.innerHTML += `Email: ${emailInput.value}<br>`;
+        div.innerHTML += `Телефон: ${phoneInput.value}<br>`;
+        div.innerHTML += `Город: ${cityInput.value}<br>`;
+        if(document.querySelector("#a").checked){
+            div.innerHTML += `Семейное положение: ${document.querySelector("#a").value}<br>`;
+        } else if(document.querySelector("#b").checked){
+            div.innerHTML += `Семейное положение: ${document.querySelector("#c").value}<br>`;
+        } else if(document.querySelector("#c").checked){
+            div.innerHTML += `Семейное положение: ${document.querySelector("#c").value}<br>`;
+        } 
+
+        let obrValue = [];
+
+        obr.forEach((obr) => {
+            if(document.querySelector(obr).checked){
+                hobbyValue.push(document.querySelector(obr).value);
+            }
+        })
+
+        let obr2Value = [];
+
+        obr2.forEach((obr2) => {
+            if(document.querySelector(obr2).checked){
+                hobbyValue.push(document.querySelector(obr2).value);
+            }
+        })
+
+        div.innerHTML += `Профессиональное образование: ${obrValue.join(",")}<br>`;
+        div.innerHTML += `Общее образование: ${obr2Value.join(",")}<br>`;
+
+        this.reset(); // очищение формы this==form
+    }
+})

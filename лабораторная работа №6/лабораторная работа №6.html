@@ -44,12 +44,12 @@
 </tr>
 <tr>
 <th>Дата рождения</th>
-<td><label><input type="date" required></label></td>
-<td><label><input type="date" required></label></td>
+<td><label><input type="date" name="date" required></label></td>
+<td><label><input type="date" name="date" required></label></td>
 </tr>
 <tr>
 <th>Место рождения</th>
-<td><label for="citySelect">Выберите город:</label>
+<td><label for="citySelect" name="city">Выберите город:</label>
 <select id="citySelect">
   <option value="Красноярск">Красноярск</option>
   <option value="Железногорск">Железногорск</option>
@@ -80,42 +80,42 @@
 <th>Образование (отметить знаком v)</th>
 <td><form action="handler.php">
 <p>Профессиональное:</p>
-<p><input type="checkbox" id="высшее" name="высшее" />
+<p><input type="checkbox" id="vis" name="obr" />
 <label for="высшее">высшее</label></p>
-<p><input type="checkbox" id="неполное высшее" name="неполное высшее" />
+<p><input type="checkbox" id="nvis" name="obr" />
 <label for="высшее">неполное высшее</label></p>
-<p><input type="checkbox" id="среднее" name="среднее" />
+<p><input type="checkbox" id="sr" name="obr" />
 <label for="высшее">среднее</label></p>
-<p><input type="checkbox" id="начальное" name="начальное" />
+<p><input type="checkbox" id="n" name="obr" />
 <label for="высшее">начальное</label></p>
 <p>Общее:</p>
-<p><input type="checkbox" id="среднее (полное)" name="среднее (полное)" />
+<p><input type="checkbox" id="srp" name="obr2" />
 <label for="высшее">среднее (полное)</label></p>
-<p><input type="checkbox" id="основное" name="основное" />
+<p><input type="checkbox" id="os" name="obr2" />
 <label for="высшее">основное</label></p>
-<p><input type="checkbox" id="начальное" name="начальное" />
+<p><input type="checkbox" id="nach" name="obr2" />
 <label for="высшее">начальное</label></p>
-<p><input type="checkbox" id="не имею" name="не имею" />
+<p><input type="checkbox" id="nm" name="obr2" />
 <label for="высшее">не имею</label></p>
 </form></td>
 <td><form action="handler.php">
 <p>Профессиональное:</p>
-<p><input type="checkbox" id="высшее" name="высшее" />
+<p><input type="checkbox" id="vis" name="obr" />
 <label for="высшее">высшее</label></p>
-<p><input type="checkbox" id="неполное высшее" name="неполное высшее" />
+<p><input type="checkbox" id="nvis" name="obr" />
 <label for="высшее">неполное высшее</label></p>
-<p><input type="checkbox" id="среднее" name="среднее" />
+<p><input type="checkbox" id="sr" name="obr" />
 <label for="высшее">среднее</label></p>
-<p><input type="checkbox" id="начальное" name="начальное" />
+<p><input type="checkbox" id="n" name="obr" />
 <label for="высшее">начальное</label></p>
 <p>Общее:</p>
-<p><input type="checkbox" id="среднее (полное)" name="среднее (полное)" />
+<p><input type="checkbox" id="srp" name="obr2" />
 <label for="высшее">среднее (полное)</label></p>
-<p><input type="checkbox" id="основное" name="основное" />
+<p><input type="checkbox" id="os" name="obr2" />
 <label for="высшее">основное</label></p>
-<p><input type="checkbox" id="начальное" name="начальное" />
+<p><input type="checkbox" id="nach" name="obr2" />
 <label for="высшее">начальное</label></p>
-<p><input type="checkbox" id="не имею" name="не имею" />
+<p><input type="checkbox" id="nm" name="obr2" />
 <label for="высшее">не имею</label></p>
 </form></td>
 </tr>
@@ -125,24 +125,24 @@
     <p>Серия: <input type="number" name="series" id="series" size="4" required></p>
     <p>Номер: <input type="number" name="numbers" id="numbers" size="6" required></p>
     <p>Кем выдан: <input type="text" name="whos" id="whos" required></p>
-    <p>Дата выдачи: <input type="date" required></p></td>
+    <p>Дата выдачи: <input type="date" name="date" required></p></td>
 <td><p>Наименование: <input type="text" name="names" id="names" autofocus required ></p>
     <p>Серия: <input type="number" name="series" id="series" size="4" required></p>
     <p>Номер: <input type="number" name="numbers" id="numbers" size="6" required></p>
     <p>Кем выдан: <input type="text" name="whos" id="whos" required></p>
-    <p>Дата выдачи: <input type="date" required></p></td>
+    <p>Дата выдачи: <input type="date" name="date" required></p></td>
 </tr>
 <tr>
 <th>Семейное положение до вступления в брак (отметить знаком v)</th>
 <td><form action="handler.php" name="fam" id="fam">
-<p><input type="radio" name="d" value="в браке не состоял"> в браке не состоял</p>
-<p><input type="radio" name="d" value="разведён"> разведён</p>
-<p><input type="radio" name="d" value="вдовец"> вдовец</p>
+<p><input type="radio" name="d" id="a" value="в браке не состоял"> в браке не состоял</p>
+<p><input type="radio" name="d" id="b" value="разведён"> разведён</p>
+<p><input type="radio" name="d" id="c" value="вдовец"> вдовец</p>
 </form></td>
 <td><form action="handler.php">
-<p><input type="radio" name="d" value="в браке не состояла"> в браке не состояла</p>
-<p><input type="radio" name="d" value="разведена"> разведена</p>
-<p><input type="radio" name="d" value="вдова"> вдова</p>
+<p><input type="radio" name="d" id="a" value="в браке не состояла"> в браке не состояла</p>
+<p><input type="radio" name="d" id="b" value="разведена"> разведена</p>
+<p><input type="radio" name="d" id="c" value="вдова"> вдова</p>
 </form></td>
 </tr>
 <tr>
