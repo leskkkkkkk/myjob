@@ -1,24 +1,36 @@
 let form = document.getElementById("reg_form");
 
-form.addEventListener("submit", function(event){
+form.addEventListener("submit", function (event) {
     event.preventDefault(); // отменяет стандартные действия браузера
 
     // <span class="error-text">Заполните поле</span>
 
-  /*  let data = new FormData(this);
-    data.forEach(function(item, index){
-        console.log(index,item)
-    });  */
-// Получаем форму
+    /*  let data = new FormData(this);
+      data.forEach(function(item, index){
+          console.log(index,item)
+      });  */
+
+
+    let errors = document.querySelectorAll(".error-text");
+
+    if (errors.length) {
+        Array.from(errors).forEach((errorSpan) => {
+            errorSpan.parentElement.classList.remove("error");
+            errorSpan.remove();
+        })
+    }
+
+    let hasError = false;
+
 const form = document.getElementById('fam');
 
 // Получаем все радио-кнопки
 const radios = form.querySelectorAll('input[type="radio"]');
 
 // Добавляем обработчик события на форму
-form.addEventListener('submit', function(event) 
+    form.addEventListener('submit', function (event) { 
   // Проверяем, что хотя бы одна радио-кнопка выбрана
-  let isChecked = false;
+  let isChecked = false);
   for (let i = 0; i < radios.length; i++) 
     if (radios[i].checked) 
       isChecked = true;
@@ -38,7 +50,7 @@ const surnameInput = document.getElementById('surname');
 const dateInputs = form.querySelectorAll('input[type="date"]');
 
 // Добавляем обработчик события на форму
-form.addEventListener('submit', function(event) 
+form.addEventListener('submit', function (event) {
   // Проверяем, что все поля заполнены
   if (snameInput.value === ” || nameInput.value === ” || surnameInput.value === ”) 
     event.preventDefault();
@@ -69,7 +81,7 @@ const citySelects = form.querySelectorAll('select#citySelect');
 const grazInputs = form.querySelectorAll('input#graz');
 
 // Добавляем обработчик события на форму
-form.addEventListener('submit', function(event) 
+form.addEventListener('submit', function (event) { 
   // Проверяем, что все поля заполнены
   if (snameInput.value === ” || nameInput.value === ” || surnameInput.value === ”) 
     event.preventDefault();
@@ -125,7 +137,7 @@ const whosInput = document.getElementById('whos');
 const dateInput = form.querySelector('input[type="date"]');
 
 // Добавляем обработчик события на форму
-form.addEventListener('submit', function(event) 
+form.addEventListener('submit', function (event) {
   // Проверяем, что поле "Национальность" заполнено
   if (nationInput.value === ”) 
     event.preventDefault();
