@@ -1455,7 +1455,7 @@ a {
       left: 0;
       right: 0;
       bottom: 0;
-      background: rgba(135, 229, 218, 0.9);
+      background: rgba(140, 230, 135, 0.9);
       z-index: 2; }
   .pricing .pricing-content {
     position: relative;
@@ -1467,7 +1467,8 @@ a {
     padding-left: 20px;
     padding-right: 20px; }
     .pricing .btn.btn-primary {
-      color: #fff; }
+        color: #fff;
+    }
     .pricing .btn.btn-outline-white {
       border-color: #fff;
       border-width: 2px;
