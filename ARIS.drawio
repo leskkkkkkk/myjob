@@ -1,41 +1,403 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.8.4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2132" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Организация" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="2090" height="800" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="nIFZRbmV8bxWE33dFjhR-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-5" target="nIFZRbmV8bxWE33dFjhR-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-5" target="nIFZRbmV8bxWE33dFjhR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-5" value="Департамент по финансам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="140" y="350" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-8" target="nIFZRbmV8bxWE33dFjhR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-8" target="nIFZRbmV8bxWE33dFjhR-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="570" />
+              <mxPoint x="230" y="570" />
+              <mxPoint x="230" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-8" value="Бухгалтерия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="250" y="470" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-9" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="250" y="50" width="1240" height="220" as="geometry" />
+        </mxCell>
+        <UserObject label="Генеральный директор" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="nIFZRbmV8bxWE33dFjhR-9" vertex="1">
+            <mxGeometry x="500" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Заместитель директора по финансам" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="nIFZRbmV8bxWE33dFjhR-9" vertex="1">
+            <mxGeometry y="140" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Заместитель директора по развитию" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="nIFZRbmV8bxWE33dFjhR-9" vertex="1">
+            <mxGeometry x="500" y="140" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Заместитель директора по технике" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="nIFZRbmV8bxWE33dFjhR-9" vertex="1">
+            <mxGeometry x="250" y="140" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Заместитель директора по обеспечению" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="nIFZRbmV8bxWE33dFjhR-9">
+            <mxGeometry x="1000" y="140" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Заместитель директора по кадрам" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="nIFZRbmV8bxWE33dFjhR-9">
+            <mxGeometry x="750" y="140" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="nIFZRbmV8bxWE33dFjhR-9" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="nIFZRbmV8bxWE33dFjhR-9" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="nIFZRbmV8bxWE33dFjhR-9" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nIFZRbmV8bxWE33dFjhR-9" source="dNxyNK7c78bLwvsdeMH5-12" target="nIFZRbmV8bxWE33dFjhR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nIFZRbmV8bxWE33dFjhR-9" source="dNxyNK7c78bLwvsdeMH5-12" target="nIFZRbmV8bxWE33dFjhR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-7" target="nIFZRbmV8bxWE33dFjhR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="570" />
+              <mxPoint x="210" y="570" />
+              <mxPoint x="210" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-7" value="Отдел планирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="10" y="470" width="180" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Специалист по финансам" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-13">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="10" y="700" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Менеджер по планированию" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="10" y="600" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-7" target="nIFZRbmV8bxWE33dFjhR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Главный бухгалтер" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="250" y="600" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Бухгалтера" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-17">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="250" y="700" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-21" target="nIFZRbmV8bxWE33dFjhR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-21" target="nIFZRbmV8bxWE33dFjhR-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="450" />
+              <mxPoint x="440" y="450" />
+              <mxPoint x="440" y="570" />
+              <mxPoint x="542" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-21" value="Департамент по технике" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="460" y="350" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-18" target="nIFZRbmV8bxWE33dFjhR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-24" value="Отдел IT-разработки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="460" y="470" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-23" value="Отдел документации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="460" y="590" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-27" target="nIFZRbmV8bxWE33dFjhR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-27" target="nIFZRbmV8bxWE33dFjhR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-27" target="nIFZRbmV8bxWE33dFjhR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-27" value="Департамент по развитию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="755" y="350" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.468;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-16" target="nIFZRbmV8bxWE33dFjhR-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-31" target="nIFZRbmV8bxWE33dFjhR-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="570" />
+              <mxPoint x="654" y="570" />
+              <mxPoint x="654" y="680" />
+              <mxPoint x="550" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-31" target="nIFZRbmV8bxWE33dFjhR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-31" target="nIFZRbmV8bxWE33dFjhR-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="570" />
+              <mxPoint x="863" y="570" />
+              <mxPoint x="863" y="680" />
+              <mxPoint x="760" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-31" value="Отдел интернет-маркетинга" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="670" y="470" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-30" target="nIFZRbmV8bxWE33dFjhR-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-30" target="nIFZRbmV8bxWE33dFjhR-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="570" />
+              <mxPoint x="1070" y="570" />
+              <mxPoint x="1070" y="680" />
+              <mxPoint x="970" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-30" value="Отдел продвижения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="880" y="470" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-29" target="nIFZRbmV8bxWE33dFjhR-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-29" value="Отдел контента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1090" y="470" width="180" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Редактор" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-37">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="460" y="700" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Рекламный аналитик" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-36">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="670" y="700" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Копирайтер" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-35">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="670" y="590" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист по SMM" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-42">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="880" y="590" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист по SPA" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-41">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="880" y="700" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Фотограф" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-45">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1090" y="590" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-48" value="Отдел по кадрам" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="960" y="350" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-47" value="Юр. отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1160" y="350" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-1" target="nIFZRbmV8bxWE33dFjhR-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-1" target="nIFZRbmV8bxWE33dFjhR-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-51" target="nIFZRbmV8bxWE33dFjhR-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-51" target="nIFZRbmV8bxWE33dFjhR-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="570" />
+              <mxPoint x="1280" y="570" />
+              <mxPoint x="1280" y="684" />
+              <mxPoint x="1180" y="684" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-51" value="Отдел закупок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1290" y="470" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="469" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="270" />
+              <mxPoint x="1280" y="330" />
+              <mxPoint x="1350" y="330" />
+              <mxPoint x="1350" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Начальник отдела" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-55">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1290" y="590" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Аккаунт-менеджер" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-54">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1090" y="700" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Менеджер по закупкам" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-53">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1290" y="700" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.44;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-51" target="nIFZRbmV8bxWE33dFjhR-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="570" />
+              <mxPoint x="1480" y="570" />
+              <mxPoint x="1480" y="685" />
+              <mxPoint x="1369" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Начальник отдела" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-60">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1500" y="590" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Кладовщик" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-59">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1500" y="700" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-61" target="nIFZRbmV8bxWE33dFjhR-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-61" target="nIFZRbmV8bxWE33dFjhR-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1590" y="569" />
+              <mxPoint x="1695" y="569" />
+              <mxPoint x="1695" y="685" />
+              <mxPoint x="1590" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-61" value="Штат склада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1500" y="470" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-2" target="nIFZRbmV8bxWE33dFjhR-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="270" />
+              <mxPoint x="1290" y="320" />
+              <mxPoint x="1360" y="320" />
+              <mxPoint x="1360" y="450" />
+              <mxPoint x="1590" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-71" target="nIFZRbmV8bxWE33dFjhR-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-71" target="nIFZRbmV8bxWE33dFjhR-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-71" value="Отдел сбыта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1470" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-2" target="nIFZRbmV8bxWE33dFjhR-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-67" value="Отдел рекламации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1690" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1979" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-72" value="Отдел доставки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1890" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Менеджер по продажам" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-76">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1370" y="350" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Специалист по продажам" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-77">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1570" y="350" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Консультант" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-79">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1700" y="470" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Курьер" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="nIFZRbmV8bxWE33dFjhR-78">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1900" y="470" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-2" target="nIFZRbmV8bxWE33dFjhR-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="200" />
+              <mxPoint x="1980" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.461;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-2" target="nIFZRbmV8bxWE33dFjhR-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="200" />
+              <mxPoint x="1773" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIFZRbmV8bxWE33dFjhR-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.444;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="nIFZRbmV8bxWE33dFjhR-67" target="nIFZRbmV8bxWE33dFjhR-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
