@@ -566,7 +566,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-35" value="Инфраструктура, ресурсы, здоровье" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-3">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-35" value="Инфраструктура, ресурсы, безопасность" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-3">
           <mxGeometry x="870" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-34" value="Материально-техническое обеспечение" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-3">
@@ -862,6 +862,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FR40TMphTbOVDmMQYM0s-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-3" source="1Jgwr9jvbbGp-77eGseV-35" target="1Jgwr9jvbbGp-77eGseV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-91" value="Общеобразовательная школа" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="160" y="1510" width="1250" height="580" as="geometry" />
         </mxCell>
@@ -890,7 +893,7 @@
         <mxCell id="1Jgwr9jvbbGp-77eGseV-97" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-91" source="1Jgwr9jvbbGp-77eGseV-98" target="1Jgwr9jvbbGp-77eGseV-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-98" value="Образовательный процесс" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-98" value="Основные функции" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="80" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-99" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-91" source="1Jgwr9jvbbGp-77eGseV-101" target="1Jgwr9jvbbGp-77eGseV-112">
@@ -904,22 +907,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-101" value="Управление школой, поддержка образовательного процесса" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-101" value="Управленческие функции" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="462.5" y="140" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-102" value="Учебная деятельность" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-102" value="Образовательный процесс" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="10" y="225" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-103" value="Воспитательный процесс" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-103" value="Воспитательная работа" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="154" y="225" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-104" value="Административное управление" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="330" y="225" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-105" value="Обеспечение безопасности учащихся" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-105" value="Материально-техническое обеспечение" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="1000" y="225" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-106" value="Техническое обеспечение" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-106" value="Психологическая поддержка" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="870" y="225" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-107" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-91" source="1Jgwr9jvbbGp-77eGseV-109" target="1Jgwr9jvbbGp-77eGseV-106">
@@ -944,16 +947,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-109" value="Инфраструктура, ресурсы, здоровье" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-109" value="Обеспечивающие функции" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="930" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-110" value="Материально-техническое обеспечение" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-110" value="Методическая работа" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="740" y="225" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-111" value="Психологическая поддержка" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-111" value="Обеспечение безопасности" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="610" y="225" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-112" value="Методическая поддержка" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-112" value="Взаимодействие с родителями и обществом" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="475" y="225" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-113" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0.445;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-91" target="1Jgwr9jvbbGp-77eGseV-104">
@@ -1066,16 +1069,16 @@
         <mxCell id="1Jgwr9jvbbGp-77eGseV-129" value="Финансовое управление" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="335" y="490" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-130" value="Повышение квалификации педагогов" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-130" value="Организация родительских собраний" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="475" y="329" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-131" value="Консультирование учащихся" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
-          <mxGeometry x="605" y="329" width="110" height="60" as="geometry" />
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-131" value="Организация охраны школы" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+          <mxGeometry x="610" y="329" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-132" value="Разработка методических материалов" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-132" value="Информирование о деятельности школы" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="475" y="410" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-133" value="Проведение психологических тренингов" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-133" value="Проведение инструктажей по безопасности" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="610" y="410" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-134" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.4;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-91" source="1Jgwr9jvbbGp-77eGseV-104" target="1Jgwr9jvbbGp-77eGseV-127">
@@ -1156,22 +1159,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-141" value="Обслуживание учебных помещений" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-141" value="Повышение квалификации педагогов" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="740" y="329" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-142" value="Обеспечение учебными материалами" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-142" value="Разработка методических материалов" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="740" y="410" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-143" value="Поддержка информационных технологий" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
-          <mxGeometry x="870" y="329" width="100" height="60" as="geometry" />
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-143" value="Консультирование учащихся" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+          <mxGeometry x="865" y="329" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-144" value="Обслуживание компьютерного оборудования" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-144" value="Проведение психологических тренингов" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="870" y="410" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-145" value="Организация охраны школы" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-145" value="Обслуживание учебных помещений" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="1000" y="329" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-146" value="Проведение инструктажей по безопасности" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-146" value="Обеспечение учебными материалами" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="1000" y="410" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-147" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-91" source="1Jgwr9jvbbGp-77eGseV-110" target="1Jgwr9jvbbGp-77eGseV-141">
@@ -1240,13 +1243,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-153" value="Обеспечение безопасности учащихся" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-153" value="Техническое обеспечение" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="1130" y="225" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-158" value="Организация охраны школы" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-158" value="Поддержка информационных технологий" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="1130" y="329" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Jgwr9jvbbGp-77eGseV-157" value="Организация охраны школы" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-157" value="Обслуживание компьютерного оборудования" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
           <mxGeometry x="1130" y="410" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Jgwr9jvbbGp-77eGseV-159" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-91" source="1Jgwr9jvbbGp-77eGseV-153" target="1Jgwr9jvbbGp-77eGseV-158">
@@ -1268,6 +1271,20 @@
               <mxPoint x="1180" y="310" />
               <mxPoint x="1116" y="310" />
               <mxPoint x="1116" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-161" value="Установление партнёрств с местными организациями" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1Jgwr9jvbbGp-77eGseV-91">
+          <mxGeometry x="475" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jgwr9jvbbGp-77eGseV-162" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1Jgwr9jvbbGp-77eGseV-91" source="1Jgwr9jvbbGp-77eGseV-112" target="1Jgwr9jvbbGp-77eGseV-161">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="390" as="sourcePoint" />
+            <mxPoint x="610" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="525" y="310" />
+              <mxPoint x="460" y="310" />
+              <mxPoint x="460" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
