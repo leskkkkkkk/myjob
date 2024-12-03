@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.9.2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1848" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,86 +215,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="1260" width="830" height="890" as="geometry" />
-        </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="1370" width="110" height="112.86" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-6" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1417.142857142857" width="280" height="142.85714285714286" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1443.57" width="86.43" height="86.43" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-10" value="&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ASUS VZ249HE&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1490" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-19" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="1560" width="159" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2070" width="70" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2000" width="290" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-36" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2020" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-37" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Директор&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Пешкова Инга&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="353.22" y="1295" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1260" width="830" height="890" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-42" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1300" y="1320" width="280" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-42">
-          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-40" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-42">
-          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-55" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-42">
-          <mxGeometry x="120" y="39.2899999999999" width="86.43" height="86.43" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-78" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;b&gt;ASUS VG279QM&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-42">
-          <mxGeometry x="-5" y="74" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1430" y="1850" width="280" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-44" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-43">
-          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-45" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-43">
-          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-59" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-43">
-          <mxGeometry x="143.81" y="48.93" width="66.19" height="67.14" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-82" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;b&gt;ASUS VG279QM&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-43">
-          <mxGeometry y="56.43" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1150" y="1850" width="280" height="175" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-47" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-46">
-          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-48" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-46">
-          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-56" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-46">
-          <mxGeometry x="140" y="44.29" width="86.43" height="86.43" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-79" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS TUF&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Gaming&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;VG28UQL1A&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-46">
-          <mxGeometry x="1" y="32" width="130" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-49" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1430" y="1570" width="280" height="165" as="geometry" />
+          <mxGeometry x="1440" y="2460" width="280" height="165" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-50" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-49">
           <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
@@ -305,11 +233,14 @@
         <mxCell id="Ytf_PtSluOZzpKwa03TW-57" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-49">
           <mxGeometry x="119.99999999999997" y="42.85999999999981" width="86.43" height="86.43" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-80" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS ProArt&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;PA279CV&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-49">
-          <mxGeometry x="-10" y="50" width="140" height="100" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-80" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;&amp;nbsp;PA32UCX&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-49">
+          <mxGeometry x="-5" y="50" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1443.57" width="86.43" height="86.43" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1150" y="1570" width="280" height="165" as="geometry" />
+          <mxGeometry x="1160" y="2460" width="280" height="165" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-53" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-52">
           <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
@@ -320,49 +251,31 @@
         <mxCell id="Ytf_PtSluOZzpKwa03TW-58" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-52">
           <mxGeometry x="129.99999999999997" y="39.2799999999999" width="86.43" height="86.43" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-81" value="&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS ROG&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Strix XG27AQ&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-52">
-          <mxGeometry x="-10" y="65" width="140" height="90" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-81" value="&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18.6667px;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;b&gt;ASUS ZenScreen&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18.6667px;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;b&gt;MB16AC&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18.6667px; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: initial;&quot;&gt;Q&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-52">
+          <mxGeometry x="-25" y="65" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-60" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2070" width="70" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-61" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2020" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-64" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1090" y="1900" width="50" height="98.75" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-62" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-64">
-          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-63" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-64">
-          <mxGeometry width="50" height="30" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-10" value="&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Times New Roman, serif&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ASUS VZ249HE&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1490" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-66" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1090" y="1620" width="50" height="98.75" as="geometry" />
+          <mxGeometry x="1100" y="2510" width="50" height="98.75" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-67" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-66">
           <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-68" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-66">
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-68" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK8&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-66">
           <mxGeometry width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-69" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1715" y="1901" width="50" height="98.75" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-70" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-69">
-          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-71" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-69">
-          <mxGeometry width="50" height="30" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-19" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1560" width="159" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-72" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1716" y="1621" width="50" height="98.75" as="geometry" />
+          <mxGeometry x="1725" y="2510" width="50" height="98.75" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-73" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-72">
           <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-74" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-72">
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-74" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK9&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-72">
           <mxGeometry width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-75" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -374,6 +287,21 @@
         <mxCell id="Ytf_PtSluOZzpKwa03TW-77" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-75">
           <mxGeometry width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-61" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2020" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2070" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-84" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1370" y="2230" width="164" height="163.5300000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-85" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-360;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-84">
+          <mxGeometry x="5" width="153.91" height="163.53" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-86" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;rotation=-180;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-84">
+          <mxGeometry width="164" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-83" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="596" y="1976.4700000000003" width="164" height="163.5300000000002" as="geometry" />
         </mxCell>
@@ -383,14 +311,23 @@
         <mxCell id="Ytf_PtSluOZzpKwa03TW-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-83">
           <mxGeometry y="153.52999999999975" width="164" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-84" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1025" y="1345.0000000000002" width="164" height="163.5300000000002" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2000" width="290" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-85" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-84">
-          <mxGeometry x="5" width="153.91" height="163.53" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-92" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1675" y="2250" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-86" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;rotation=90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-84">
-          <mxGeometry x="-77" y="77" width="164" height="10" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-92">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-92">
+          <mxGeometry x="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-92">
+          <mxGeometry x="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-92">
+          <mxGeometry x="120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-91" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="670" y="1270" width="150" height="30" as="geometry" />
@@ -407,41 +344,490 @@
         <mxCell id="Ytf_PtSluOZzpKwa03TW-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-91">
           <mxGeometry x="120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-92" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1680" y="1280" width="150" height="30" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-36" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK14&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2020" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-92">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-92">
-          <mxGeometry x="40" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-92">
-          <mxGeometry x="80" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-92">
-          <mxGeometry x="120" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-97" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Бизнес-аналитик&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="1790" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-99" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Разработчик&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&amp;nbsp;веб-приложения&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="1770" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-100" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Frontend-разработчик&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20size%3D%26quot%3B3%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%26lt%3B%2Fb%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221485%22%20y%3D%221790%22%20width%3D%22160%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1530" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ytf_PtSluOZzpKwa03TW-101" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Backend-разработчик&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1530" width="200" height="30" as="geometry" />
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-100" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Экономист&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="2410" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-102" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;UI/UX-дизайнер&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1365" y="1280" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-37" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Директор&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot; size=&quot;3&quot;&gt;Пешкова Инга&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="353.22" y="1295" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-101" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Бухгалтер&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="2410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-108" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1035" y="1270" width="830" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-109" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry width="830" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-110" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="405" y="590" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-111" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-110">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-112" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-110">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-113" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-110">
+          <mxGeometry x="143.81" y="48.93" width="66.19" height="67.14" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-114" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;IdeaPad 3&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-110">
+          <mxGeometry x="15" y="56.43" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-115" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="125" y="590" width="280" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-116" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-115">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-117" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-115">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-118" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-115">
+          <mxGeometry x="140" y="44.29" width="86.43" height="86.43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-119" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS TUF&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Gaming&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;VG28UQL1A&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-115">
+          <mxGeometry x="1" y="32" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-120" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="405" y="310" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-121" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-120">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-122" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-120">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-123" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-120">
+          <mxGeometry x="119.99999999999997" y="42.85999999999981" width="86.43" height="86.43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-124" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS ProArt&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;PA279CV&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-120">
+          <mxGeometry x="-10" y="50" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-125" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="125" y="310" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-126" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-125">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-127" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-125">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-128" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-125">
+          <mxGeometry x="129.99999999999997" y="39.2799999999999" width="86.43" height="86.43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-129" value="&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS ROG&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Strix XG27AQ&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-125">
+          <mxGeometry x="-10" y="65" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-130" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="65" y="640" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-131" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-130">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-132" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-130">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-133" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="65" y="360" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-134" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-133">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-135" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-133">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-136" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="690" y="641" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-137" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-136">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-138" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK5&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-136">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-139" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="691" y="361" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-140" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-139">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-141" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-139">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-142" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry y="85.00000000000023" width="164" height="163.5300000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-143" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-142">
+          <mxGeometry x="5" width="153.91" height="163.53" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-144" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;rotation=90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-142">
+          <mxGeometry x="-77" y="77" width="164" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-145" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="655" y="20" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-146" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-145">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-147" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-145">
+          <mxGeometry x="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-148" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-145">
+          <mxGeometry x="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-149" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-145">
+          <mxGeometry x="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-150" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Бизнес-аналитик&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="460" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-151" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Разработчик&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&amp;nbsp;веб-приложения&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="185" y="510" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-152" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Frontend-разработчик&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20size%3D%26quot%3B3%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%26lt%3B%2Fb%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221485%22%20y%3D%221790%22%20width%3D%22160%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="445" y="270" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-153" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Backend-разработчик&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="165" y="270" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-154" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="705" y="70" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-155" value="&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;PRT-001&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-108">
+          <mxGeometry x="710" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1260" width="830" height="890" as="geometry" />
+        </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-103" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="1330" width="90" height="90" as="geometry" />
+          <mxGeometry x="1725" y="2300" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="2230" width="805" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="Ytf_PtSluOZzpKwa03TW-104" value="&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;PRT-001&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1735" y="1430" width="80" height="30" as="geometry" />
+          <mxGeometry x="1730" y="2400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1300" y="1320" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-42">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-40" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-42">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-55" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-42">
+          <mxGeometry x="120" y="39.2899999999999" width="86.43" height="86.43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-78" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14pt; line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;b&gt;ASUS VG279QM&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-42">
+          <mxGeometry x="-5" y="74" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-156" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sofa;rotation=-44;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="2280" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-60" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2070" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-157" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="2260" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-177" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1100" y="2730" width="675" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-43" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-177">
+          <mxGeometry x="340" y="60" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-44" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-43">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-45" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-43">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-59" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-43">
+          <mxGeometry x="143.81" y="48.93" width="66.19" height="67.14" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-82" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Pavilion 15&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-43">
+          <mxGeometry x="15" y="56.43" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-46" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-177">
+          <mxGeometry x="60" y="60" width="280" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-47" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-46">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-48" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-46">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-56" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-46">
+          <mxGeometry x="140" y="44.29" width="86.43" height="86.43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-79" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS ROG&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Swift PG27UQ&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-46">
+          <mxGeometry x="-4" y="47" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-64" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-177">
+          <mxGeometry y="93.13000000000011" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-62" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-64">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-63" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK10&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-64">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-69" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-177">
+          <mxGeometry x="625" y="100" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-70" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-69">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-71" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK11&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-69">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-97" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Специалист по тех. обслуживанию&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-177">
+          <mxGeometry x="320" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-99" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Специалист по&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;информационной&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;безопасности&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-177">
+          <mxGeometry x="115" y="-20" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-178" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1100" y="3040" width="675" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-179" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-178">
+          <mxGeometry x="340" y="60" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-180" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-179">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-181" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-179">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-182" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-179">
+          <mxGeometry x="143.81" y="48.93" width="66.19" height="67.14" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-183" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Inspiron 14&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-179">
+          <mxGeometry x="15" y="56.43" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-184" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-178">
+          <mxGeometry x="60" y="60" width="280" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-185" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-184">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-186" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-184">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-187" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-184">
+          <mxGeometry x="140" y="44.29" width="86.43" height="86.43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-188" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ASUS Designo&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Curve MX38VC&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-184">
+          <mxGeometry x="-9" y="47" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-189" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-178">
+          <mxGeometry y="93.13000000000011" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-190" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-189">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-191" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK12&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-189">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-192" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-178">
+          <mxGeometry x="625" y="100" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-193" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-192">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-194" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK13&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-192">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-195" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Администратор тех. поддержки&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-178">
+          <mxGeometry x="335" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-196" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Системный администратор&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-178">
+          <mxGeometry x="80" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-199" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2280" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-232" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="2280" width="164" height="163.5300000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-233" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-360;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-232">
+          <mxGeometry x="5" width="153.91" height="163.53" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-234" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;rotation=-180;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-232">
+          <mxGeometry width="164" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-235" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="2350" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-236" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;rotation=90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-235">
+          <mxGeometry x="60" y="-60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-237" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;rotation=90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-235">
+          <mxGeometry x="60" y="-20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-238" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;rotation=90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-235">
+          <mxGeometry x="60" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-239" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Plug_in_power_socket_power_supply_socket_wall_socket-128.png;rotation=90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-235">
+          <mxGeometry x="60" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-246" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="2780" width="676" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-210" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-246">
+          <mxGeometry x="340" y="40" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-211" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-210">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-212" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-210">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-214" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Huawei&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;MatePad&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Pro 12.6&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-210">
+          <mxGeometry x="-5" y="35" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-247" value="" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-210">
+          <mxGeometry x="150" y="56.429999999999836" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-215" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-246">
+          <mxGeometry x="60" y="40" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-216" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-215">
+          <mxGeometry x="70" width="140" height="92.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-217" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-215">
+          <mxGeometry y="42.85714285714286" width="280" height="107.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-219" value="&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;ProLiant&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;DL380 Gen10&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 14pt;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;Huawei&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;&lt;b&gt;MatePad 11&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-215">
+          <mxGeometry x="-10" y="65" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-248" value="" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-215">
+          <mxGeometry x="180" y="56.429999999999836" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-223" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-246">
+          <mxGeometry y="90" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-224" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-223">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-225" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK6&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-223">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-229" value="" style="group" vertex="1" connectable="0" parent="Ytf_PtSluOZzpKwa03TW-246">
+          <mxGeometry x="626" y="91" width="50" height="98.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-230" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;rotation=-90;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-229">
+          <mxGeometry x="-10" y="50" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-231" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KK7&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-229">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-242" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Маркетолог&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-246">
+          <mxGeometry x="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-243" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;SMM-менеджер&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ytf_PtSluOZzpKwa03TW-246">
+          <mxGeometry x="125" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-249" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2300" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-251" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" vertex="1" parent="1">
+          <mxGeometry x="485" y="2470" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-252" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/board-stats-report-presentation-diagram-128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="2520" width="158" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-253" target="Ytf_PtSluOZzpKwa03TW-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-253" value="&lt;b&gt;ASUS VG279QM&lt;/b&gt;&lt;div&gt;&lt;b&gt;ASUS ROG Strix XG27AQ&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ASUS ProArt PA279CV&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ASUS TUF Gaming VG28UQL1A&lt;/b&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3670" width="73.4" height="73.4" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-254" value="&lt;b&gt;IdeaPad 3&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3830" width="59.16" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-255" target="Ytf_PtSluOZzpKwa03TW-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-255" value="&lt;div&gt;&lt;b&gt;Huawei MatePad 11&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Huawei MatePad Pro 12.6&lt;/b&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="329.58" y="3950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-256" target="Ytf_PtSluOZzpKwa03TW-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-256" value="&lt;b&gt;KK1-KK4&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3697.7" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-258" target="Ytf_PtSluOZzpKwa03TW-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-258" value="&lt;b&gt;KK5&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3851" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-259" target="Ytf_PtSluOZzpKwa03TW-274">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="4030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-259" value="&lt;b&gt;KK6-KK7&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4000" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-260" target="Ytf_PtSluOZzpKwa03TW-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-260" value="&lt;div&gt;&lt;b&gt;ASUS ROG Swift PG27UQ&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ASUS Designo Curve MX38VC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ASUS ZenScreen MB16ACQ&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ASUS PA32UCX&lt;/b&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="4120" width="73.4" height="73.4" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-261" target="Ytf_PtSluOZzpKwa03TW-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-261" value="&lt;b&gt;KK8-KK10,&lt;/b&gt;&lt;div&gt;&lt;b&gt;KK12&lt;/b&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4147.7" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-262" target="Ytf_PtSluOZzpKwa03TW-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-262" value="&lt;div&gt;&lt;b&gt;Pavilion 15&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Inspiron 14&lt;/b&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
+          <mxGeometry x="347.12" y="4310" width="59.16" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-264" target="Ytf_PtSluOZzpKwa03TW-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-264" value="&lt;b&gt;ASUS VZ249HE&lt;/b&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="332.88" y="4420" width="73.4" height="73.4" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-266" target="Ytf_PtSluOZzpKwa03TW-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-266" value="&lt;b&gt;KK11, KK13&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4331" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-267" target="Ytf_PtSluOZzpKwa03TW-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-267" value="&lt;b&gt;KK14&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4447.7" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-254" target="Ytf_PtSluOZzpKwa03TW-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ytf_PtSluOZzpKwa03TW-274" target="Ytf_PtSluOZzpKwa03TW-284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-274" value="&lt;b&gt;KK15&lt;/b&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="910" y="4074" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Ytf_PtSluOZzpKwa03TW-284" value="&lt;b&gt;MK1&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="4064.5" width="35.5" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
