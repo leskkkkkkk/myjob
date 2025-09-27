@@ -270,10 +270,10 @@
         <mxCell id="Kz0ILVLRbBPBbnpEan82-94" value="Участок розлива и укупорки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-160" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-dbjvyVrqkAvfIUvC8t-2" value="Производственный цех" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m-dbjvyVrqkAvfIUvC8t-2" value="Производственный цех" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="960" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-dbjvyVrqkAvfIUvC8t-6" value="Провести&amp;nbsp;&lt;div&gt;испытания&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m-dbjvyVrqkAvfIUvC8t-6" value="Провести&amp;nbsp;&lt;div&gt;испытания&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="1110" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m-dbjvyVrqkAvfIUvC8t-7" value="1" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="m-dbjvyVrqkAvfIUvC8t-6">
@@ -281,7 +281,7 @@
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-dbjvyVrqkAvfIUvC8t-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Проанализировать результаты" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m-dbjvyVrqkAvfIUvC8t-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Проанализировать результаты" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="1260" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m-dbjvyVrqkAvfIUvC8t-9" value="2" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="m-dbjvyVrqkAvfIUvC8t-8">
@@ -311,7 +311,7 @@
             <mxPoint x="41" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-dbjvyVrqkAvfIUvC8t-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Зарегистрировать результат" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m-dbjvyVrqkAvfIUvC8t-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Зарегистрировать результат" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="1370" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m-dbjvyVrqkAvfIUvC8t-11" value="3" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="m-dbjvyVrqkAvfIUvC8t-10">
@@ -319,16 +319,16 @@
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-dbjvyVrqkAvfIUvC8t-12" value="База данных протокола испытаний" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m-dbjvyVrqkAvfIUvC8t-12" value="База данных протокола испытаний" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1460" y="1370" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="m-dbjvyVrqkAvfIUvC8t-14" value="Склад готовой продукции" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m-dbjvyVrqkAvfIUvC8t-14" value="Склад готовой продукции" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="1470" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-dbjvyVrqkAvfIUvC8t-15" value="Технологический отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m-dbjvyVrqkAvfIUvC8t-15" value="Технологический отдел" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1620" y="1380" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-dbjvyVrqkAvfIUvC8t-16" value="База данных стандартов качества" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m-dbjvyVrqkAvfIUvC8t-16" value="База данных стандартов качества" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1240" y="1560" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m-dbjvyVrqkAvfIUvC8t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.494;entryY=0.102;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m-dbjvyVrqkAvfIUvC8t-2" target="m-dbjvyVrqkAvfIUvC8t-6">
