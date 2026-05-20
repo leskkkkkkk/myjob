@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="4038" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="3726" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2352,7 +2352,7 @@
             <mxPoint x="999.9999999999998" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="98EPm6Ik2sVTGAybHciv-28" connectable="0" parent="98EPm6Ik2sVTGAybHciv-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="O2 - Бланк инвентаризации" vertex="1">
+        <mxCell id="98EPm6Ik2sVTGAybHciv-28" connectable="0" parent="98EPm6Ik2sVTGAybHciv-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="O2 - Отчет об инвентаризации" vertex="1">
           <mxGeometry relative="1" x="0.0054" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3060,7 +3060,7 @@
         <mxCell id="98EPm6Ik2sVTGAybHciv-159" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="4.3" vertex="1">
           <mxGeometry height="10" width="20" x="-1625" y="4210" as="geometry" />
         </mxCell>
-        <mxCell id="98EPm6Ik2sVTGAybHciv-361" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Формирование ведомости НДВ" vertex="1">
+        <mxCell id="98EPm6Ik2sVTGAybHciv-361" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Формирование таблицы нормативов НДВ" vertex="1">
           <mxGeometry height="60" width="120" x="-1495" y="4240" as="geometry" />
         </mxCell>
         <mxCell id="98EPm6Ik2sVTGAybHciv-362" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="4.4" vertex="1">
